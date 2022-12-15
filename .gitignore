@@ -1,0 +1,14 @@
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Personal usage
+data-dump/
+cdlg_tool/
+other-architectures/
+/test.xes
+/process_dataset_export_bpmn.json
+/raw/
+/processed/
